@@ -43,7 +43,7 @@ const PostCard = ({ post }: PostCardProps) => {
               </p>
             </div>
           </div>
-        </div>
+        </div> 
 
         <Link
           to={`/update-post/${post.$id}`}
